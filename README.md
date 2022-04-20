@@ -1,6 +1,6 @@
 # Leetcode problem 167. Two Sum II - Input Array Is Sorted
 
-This repository contains solution and test of [Leetcode problem 167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) written in Kotlin language
+This repository contains solution and tests of [Leetcode problem 167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) written in Kotlin language
 
 ## Solution
 
